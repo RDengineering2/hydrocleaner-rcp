@@ -1,10 +1,146 @@
 {
     "Recipe_1": {
-        "RecipeName": "",
-        "HydraPp2h": 0,
+        "RecipeName": "Glass Cleaner RTU",
+        "HydraPp2h": 10,
+        "Add1Pp10Th": 50,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_2": {
+        "RecipeName": "Kitchen Cleaner RTU",
+        "HydraPp2h": 10,
+        "Add1Pp10Th": 50,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_3": {
+        "RecipeName": "Dishwash Liquid Conc",
+        "HydraPp2h": 31,
+        "Add1Pp10Th": 2000,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 700
+    },
+    "Recipe_4": {
+        "RecipeName": "Floors Cleaner RTU",
+        "HydraPp2h": 10,
+        "Add1Pp10Th": 20,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_7": {
+        "RecipeName": "Floors Cleaner Conc",
+        "HydraPp2h": 165,
+        "Add1Pp10Th": 1000,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 750
+    },
+    "Recipe_8": {
+        "RecipeName": "Toilet Cleaner RTU",
+        "HydraPp2h": 165,
+        "Add1Pp10Th": 0,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 1750,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_9": {
+        "RecipeName": "Hydroclean Disinfectant RTU",
+        "HydraPp2h": 200,
         "Add1Pp10Th": 0,
         "Add2Pp10Th": 0,
         "Add3Pp10Th": 0,
         "Add4Pp10Th": 0
+    },
+    "Recipe_10": {
+        "RecipeName": "Granite Marble Conc",
+        "HydraPp2h": 0,
+        "Add1Pp10Th": 250,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_11": {
+        "RecipeName": "Multipurpose Cleaner Conc",
+        "HydraPp2h": 165,
+        "Add1Pp10Th": 1000,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 750
+    },
+    "Recipe_13": {
+        "RecipeName": "Laminates / Metal RTU",
+        "HydraPp2h": 10,
+        "Add1Pp10Th": 50,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_15": {
+        "RecipeName": "Hydroclean SR (Sanitizer) RTU",
+        "HydraPp2h": 30,
+        "Add1Pp10Th": 0,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_17": {
+        "RecipeName": "Heavy Duty Degreaser Conc",
+        "HydraPp2h": 145,
+        "Add1Pp10Th": 2000,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 750
+    },
+    "Recipe_18": {
+        "RecipeName": "Stain Remover RTU",
+        "HydraPp2h": 198,
+        "Add1Pp10Th": 100,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_20": {
+        "RecipeName": "Hydroclean LS (Handwash) RTU",
+        "HydraPp2h": 4,
+        "Add1Pp10Th": 0,
+        "Add2Pp10Th": 2000,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 1000
+    },
+    "Recipe_21": {
+        "RecipeName": "Bathroom Cleaner Conc",
+        "HydraPp2h": 145,
+        "Add1Pp10Th": 2000,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 750
+    },
+    "Recipe_22": {
+        "RecipeName": "Glass Cleaner Conc",
+        "HydraPp2h": 195,
+        "Add1Pp10Th": 250,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_25": {
+        "RecipeName": "Bathroom Cleaner RTU",
+        "HydraPp2h": 10,
+        "Add1Pp10Th": 30,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 0
+    },
+    "Recipe_26": {
+        "RecipeName": "Dishwash Liquid RTU",
+        "HydraPp2h": 2,
+        "Add1Pp10Th": 30,
+        "Add2Pp10Th": 0,
+        "Add3Pp10Th": 0,
+        "Add4Pp10Th": 80
     }
 }
